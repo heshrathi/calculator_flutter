@@ -1,5 +1,5 @@
-# calculator_app
- Simple arithmatic calculator designed in Flutter using Dart language with simple UI.
+# Calculator App
+ Simple arithmetic calculator designed in Flutter using Dart language with simple UI.
 <br>
  A beginners project to get introduce to the flutter development environment.
  
